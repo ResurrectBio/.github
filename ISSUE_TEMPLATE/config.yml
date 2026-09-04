@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Discussion
+    url: https://github.com/orgs/ResurrectBio/discussions
+    about: Please ask questions and discuss ideas here rather than opening an issue.
