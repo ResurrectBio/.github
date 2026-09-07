@@ -9,7 +9,9 @@ Any repo in this org that doesn't have its own copy of a file below will automat
 
 | File | Purpose |
 |---|---|
+| `CODE_OF_CONDUCT.md` | Sets expectations for respectful behavior across issues, PRs, and reviews. |
 | `SECURITY.md` | Vulnerability reporting policy. Adds a "Report a vulnerability" link to every repo's Security tab. |
+| `SUPPORT.md` | Where to ask questions or get help, separate from bug reports. |
 | `PULL_REQUEST_TEMPLATE.md` | Default template shown when opening a PR in any repo without its own. |
 | `ISSUE_TEMPLATE/bug_report.md` | Structured bug report form. |
 | `ISSUE_TEMPLATE/feature_request.md` | Structured feature request form. |
